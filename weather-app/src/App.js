@@ -1,5 +1,4 @@
 import React, {useState} from "react";
-import Container from "./Container";
 import axios from "axios";
 
 function App() {
